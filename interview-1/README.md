@@ -15,9 +15,13 @@ In the game, the player needs to match a country to its capital by clicking on a
 
 ## Results :
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/07c62924-a645-41dc-989b-27bb7e81929c)
+
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/e4057b40-878a-4fb3-ad18-c308690e617b)
+
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/6adc9484-9e83-4b3a-9ff2-7baa44dfc4bf)
+
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/3ba6bcd9-e6f7-4345-8658-ef4c3f09b4ea)
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/54127667-8a8b-4c75-acfa-d36253075b6f)
+
+![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/50a9bde0-4032-4bf5-ab68-bbde601ddc2e)
 
 
