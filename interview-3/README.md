@@ -1,6 +1,11 @@
 # Interview 3 :
 
 Create a React component that generates a list of checkboxes dynamically based on an initial array. When a checkbox is clicked, a delete button appears next to it. Clicking the delete button removes the corresponding checkbox item from the list.
+An exemple of the initial array :
+```sh
+const arr = ["play cricket", "play video games", "read book"];
+```
+
 
 ## Results :
 
