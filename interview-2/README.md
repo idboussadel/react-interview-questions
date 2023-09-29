@@ -16,7 +16,8 @@ const countries = [
 * The second dropdown should dynamically update based on the selected country in the first dropdown.
 * Ensure that, after refreshing the page, the second dropdown displays cities associated with the initially selected country.
 
-** Results :
+## Results :
+
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/b997d1a0-0cd0-416c-8745-6c1749946656)
 
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/7b0aab2e-db19-4eb1-9c23-d8b8febbbd8c)
