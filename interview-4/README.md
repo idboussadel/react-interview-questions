@@ -12,10 +12,10 @@ const days = ["weekday", "weekend"];
 
 ## Results :
 
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/df1dfede-c5d5-4e0f-b8cd-3daf9399ec4a)
+![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/31416b5a-3bc3-42c9-a77f-71d73416ab8b)
 
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/84c7b926-23eb-41cd-b8dc-214853705533)
+![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/0d0aaf43-ec51-4cbc-83bc-d565630a86a9)
 
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/52321e14-1e1f-4fa6-bcad-46182be990a6)
+![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/13d18955-8b50-461a-85d4-68e0c83c086a)
 
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/141a2127-1dc7-4d9f-9023-7a46042e3842)
+![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/b748ab8a-5d87-48b5-848e-ec992c3ba8ba)
