@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #242424;
+}
+
+.box {
+  display: flex;
+  color: white;
+  font-size: 23px;
+  gap: 2rem;
+}
+
+.box,
+body,
+.hobbies,
+.days {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hobbies,
+.box,
+.days {
+  flex-direction: column;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
