@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.color-box {
+  width: 21rem;
+  height: 14rem;
+  border-radius: 10px;
+  margin-bottom: 1.2rem;
+}
+
+.color-choices {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.answer {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
