@@ -20,8 +20,6 @@ const cardArray = ["1", "2", "3", "1", "2", "3"];
 
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/6b2ff599-d780-49e9-9d21-82026524cb1a)
 
-![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/5ae1fc2b-42d4-4ce4-a231-0d68a80761d8)
-
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/373ee516-d704-41c1-bbf4-254b498cf62f)
 
 ![image](https://github.com/Devai-coding/react-interview-questions/assets/113947156/81115b9e-038a-43b6-a6b6-da743a911199)
