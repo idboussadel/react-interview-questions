@@ -1,4 +1,4 @@
-# React + Vite
+# Interview 5 :
 
 Create a game that presents players with a card displaying a unique color, and their task is to select the correct hexadecimal code from a set of choices, and users receive instant feedback on their guesses. 
 A 'Wrong' message appears and disappears after 3 seconds for incorrect answers. Alternatively, for correct guesses, a 'Correct' message displays alongside change the color of the card to a new color.
